@@ -1,6 +1,6 @@
 # Monster Hunter Armory - Data Exporter
 
-Export your decorations and talismans from **Monster Hunter Wilds** for use with the [Monster Hunter Armory](https://github.com/your-username/monster-hunter-armory) build optimizer.
+Export your decorations and talismans from **Monster Hunter Wilds** for use with the Monster Hunter Armory build optimizer.
 
 ## Requirements
 
@@ -19,7 +19,7 @@ Export your decorations and talismans from **Monster Hunter Wilds** for use with
 
 ### Step 2: Install the Export Script
 
-1. Download `game_export.lua` from this repository ([Direct Download](https://raw.githubusercontent.com/your-username/Monster-Hunter-Armory-Public/main/game_export.lua))
+1. Download `game_export.lua` from this repository ([Direct Download](https://raw.githubusercontent.com/Az3rate/Monster-Hunter-Armory-Public/master/game_export.lua))
 2. Place it in the REFramework autorun folder:
    ```
    MonsterHunterWilds\reframework\autorun
