@@ -25,7 +25,7 @@ If you experience any issues with the script, please join my Discord for support
 
 ### Step 2: Install the Export Script
 
-1. Download `inventory_export_v3_protected.lua` from the [Releases Page](https://github.com/Az3rate/Monster-Hunter-Armory-Public/releases/tag/v3.0.0)
+1. Download `inventory_export_v4_protected.lua` from the [Releases Page](https://github.com/Az3rate/Monster-Hunter-Armory-Public/releases/tag/v4.0.0)
 2. Place it in the REFramework autorun folder:
    ```
    MonsterHunterWilds\reframework\autorun
@@ -37,7 +37,7 @@ If you experience any issues with the script, please join my Discord for support
 1. Launch Monster Hunter Wilds
 2. Load into any save file
 3. Press `Insert` to open REFramework menu
-4. Navigate to **Script Generated UI** → **MH Wilds Inventory Exporter v3**
+4. Navigate to **Script Generated UI** → **MH Wilds Inventory Exporter v4**
 5. Click **Export Inventory**
 
 ![Export Instructions](exportinstruction.png)
@@ -66,7 +66,7 @@ Files created:
 ## Troubleshooting
 
 ### Script not appearing in REFramework
-- Ensure the file is named exactly `inventory_export_v3_protected.lua`
+- Ensure the file is named exactly `inventory_export_v4_protected.lua`
 - Check that it's in the correct folder: `reframework\autorun`
 - Restart the game after adding the script
 
@@ -82,9 +82,13 @@ This script:
 - Does not send data anywhere - all exports are local files
 - Is safe to use online
 
+## What's New in v4
+
+- **Equipped decorations are now exported** - Previously, decorations slotted into your gear were not counted. Now the export includes all decorations, whether in your inventory or equipped on armour/weapons.
+
 ## Version
 
-Current version: **3.0.0**
+Current version: **4.0.0**
 
 ## License
 
